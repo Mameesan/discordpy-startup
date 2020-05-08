@@ -44,7 +44,7 @@ async def on_message(message):
                 await target.add_roles(levelrole5)
                 await target.remove_roles(levelrole1)
 
-client.run("") # NzA4MjI5MTk5MTM5MzA3NTYw.XrVPwQ.CDG6QKO_iRcrSONuBHWb4yBnn5M
+client.run("") # 
 
 
-bot.run(NzA4MjI5MTk5MTM5MzA3NTYw.XrVPwQ.CDG6QKO_iRcrSONuBHWb4yBnn5M)
+bot.run(token)
